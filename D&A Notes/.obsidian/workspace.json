@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/testing testing.md",
+                "file": "Two Pointer/With Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/testing testing.md",
+                "file": "Two Pointer/With Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/testing testing.md",
+                "file": "Two Pointer/With Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/testing testing.md"
+                "file": "Two Pointer/With Arrays.md"
               }
             }
           }
@@ -146,9 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b5001d54b42d50",
+  "active": "0051281083c8e5d5",
   "lastOpenFiles": [
+    "Arrays and Hashmaps/Hash Maps.md",
+    "Two Pointer/With Arrays.md",
+    "Arrays and Hashmaps/Arrays.md",
+    "Leetcode/Medium/Min Stack.md",
+    "Arrays and Hashmaps",
+    "Two Pointer",
+    "Leetcode/Easy/Two Sum.md",
     "Stacks/Monotonic Stacks.md",
+    "Leetcode/Hard",
+    "Leetcode/Medium",
+    "Leetcode/Easy",
     "Leetcode/testing testing.md",
     "Leetcode",
     "Stacks"
