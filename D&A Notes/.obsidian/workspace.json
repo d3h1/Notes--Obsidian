@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Pointer/With Arrays.md",
+                "file": "Stacks/Reverse Polish Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Two Pointer/With Arrays.md",
+                "file": "Stacks/Reverse Polish Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Two Pointer/With Arrays.md",
+                "file": "Stacks/Reverse Polish Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Two Pointer/With Arrays.md"
+                "file": "Stacks/Reverse Polish Notation.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0051281083c8e5d5",
+  "active": "97b5001d54b42d50",
   "lastOpenFiles": [
-    "Arrays and Hashmaps/Hash Maps.md",
     "Two Pointer/With Arrays.md",
+    "Stacks/Reverse Polish Notation.md",
+    "Arrays and Hashmaps/Hash Maps.md",
     "Arrays and Hashmaps/Arrays.md",
     "Leetcode/Medium/Min Stack.md",
     "Arrays and Hashmaps",
