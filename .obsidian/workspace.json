@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "57b93114583a65bb",
+    "id": "38092c2baec440dc",
     "type": "split",
     "children": [
       {
-        "id": "fdd4e7dd5456165f",
+        "id": "796132e971c9a07e",
         "type": "tabs",
         "children": [
           {
-            "id": "8e06587726db827e",
+            "id": "da0ee66a1d0cd31e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a94be4d5607b267b",
+    "id": "518d477d2264e4ad",
     "type": "split",
     "children": [
       {
-        "id": "358d7de778ea1d4f",
+        "id": "37e0ccceaf1e0001",
         "type": "tabs",
         "children": [
           {
-            "id": "0051281083c8e5d5",
+            "id": "0d94972fae515d0c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "30e7dedc38f07b2f",
+            "id": "8628fd63c59d43fe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "fc5c3e3ab58520cf",
+            "id": "7589b82d6a6e4a52",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "a4470221ab12dbb5",
+    "id": "4fc88f52d17ac479",
     "type": "split",
     "children": [
       {
-        "id": "e17179a78c97b322",
+        "id": "1afbb9dec3bd037f",
         "type": "tabs",
         "children": [
           {
-            "id": "a92a45ec477dd511",
+            "id": "18142f47fb2ac84f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "abdb29cefde03176",
+            "id": "8bf7ec48bd2768f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "c03029fe00143bec",
+            "id": "32643ec2e78a36e5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "4848c1995d992047",
+            "id": "d64cc9104af4cf60",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,27 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0051281083c8e5d5",
-  "lastOpenFiles": [
-    "Untitled",
-    "Untitled.md",
-    "D&A.md",
-    "Stacks/Reverse Polish Notation.md",
-    "Untitled.canvas",
-    "Stacks/When To Use.md",
-    "Two Pointer/With Arrays.md",
-    "Arrays and Hashmaps/Hash Maps.md",
-    "Arrays and Hashmaps/Arrays.md",
-    "Leetcode/Medium/Min Stack.md",
-    "Arrays and Hashmaps",
-    "Two Pointer",
-    "Leetcode/Easy/Two Sum.md",
-    "Stacks/Monotonic Stacks.md",
-    "Leetcode/Hard",
-    "Leetcode/Medium",
-    "Leetcode/Easy",
-    "Leetcode/testing testing.md",
-    "Leetcode",
-    "Stacks"
-  ]
+  "active": "da0ee66a1d0cd31e",
+  "lastOpenFiles": []
 }
