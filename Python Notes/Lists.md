@@ -16,4 +16,6 @@ Used to grow a list by adding elements on the end
     print(orders) 
 ```
 
+Appending multiple items can also be done with a <b>+</b> . . .
+
 ####
