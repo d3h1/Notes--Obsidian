@@ -59,3 +59,23 @@ The methods inside of class can be seen as a basic form of encapsulation. The wa
 > Functions written by users
 ### Built-in Functions
 > Functions that are built into Python
+
+## Scope
+When accessing a variable, Python checsk these scopes in this order 
+1. Local
+2. Enclosing
+3. Global
+4. Built-in
+
+### Understanding The Scopes
+1. Local Scope
+> This refers to variables defined within a function. These can only be accessed inside the function
+
+2. Enclosing (Non-Local) Scope
+> This refers to a function inside antoher function. Varibales in an enclosing scope can be accessed from the inner function but to modify them, THE "nonlocal" KEYWORD is needed
+
+3. Global Scope
+> This refers to varaibles defined at the top level of a script. These varaibles can be accessed from anywhere by anything. Usually a global keyword 
+
+4. Built-in Scope
+> This refers to names that are built into python. This can be print() or len(). Always available regardless of need
