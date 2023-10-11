@@ -52,4 +52,10 @@ This shows how the user does not need to know how add works, they can simply use
 
     # 50 PRINTS OUT
 
-The methods inside of class can be seen as a basic form of encapsulation. The way we also create balance as a private attribute that cannot be affected outside of its methods is another way of encapsulation    
+The methods inside of class can be seen as a basic form of encapsulation. The way we also create balance as a private attribute that cannot be affected outside of its methods is another way of encapsulation  
+
+## Two Categories of Functions
+### User-Defined Functions
+> Functions written by users
+### Built-in Functions
+> Functions that are built into Python
