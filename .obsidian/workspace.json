@@ -11,8 +11,12 @@
             "id": "da0ee66a1d0cd31e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Post Production Tools/Post Production Tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post Production Tools/Post Production Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post Production Tools/Post Production Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Post Production Tools/Post Production Tools.md"
+              }
             }
           }
         ]
@@ -138,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d94972fae515d0c",
+  "active": "da0ee66a1d0cd31e",
   "lastOpenFiles": [
+    "Post Production Tools/Post Production Tools.md",
+    "Post Production Tools",
+    "Javascript Notes/Variables.md",
+    "Javascript Notes/Primitive Types.md",
+    "Javascript Notes/Javascript Question.md",
     "Javascript Notes"
   ]
 }
