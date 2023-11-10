@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4fc88f52d17ac479",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da0ee66a1d0cd31e",
+  "active": "0d94972fae515d0c",
   "lastOpenFiles": [
     "Post Production Tools/Post Production Tools.md",
     "Post Production Tools",
