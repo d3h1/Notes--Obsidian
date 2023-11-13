@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "796132e971c9a07e",
+        "id": "3d6d59a43a67df7b",
         "type": "tabs",
         "children": [
           {
-            "id": "da0ee66a1d0cd31e",
+            "id": "f803d4f38ef1575f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post Production Tools/Post Production Tools.md",
+                "file": "Javascript Notes/Javascript is Dynamic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post Production Tools/Post Production Tools.md",
+                "file": "Javascript Notes/Javascript is Dynamic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post Production Tools/Post Production Tools.md",
+                "file": "Javascript Notes/Javascript is Dynamic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post Production Tools/Post Production Tools.md"
+                "file": "Javascript Notes/Javascript is Dynamic.md"
               }
             }
           }
@@ -147,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d94972fae515d0c",
+  "active": "f803d4f38ef1575f",
   "lastOpenFiles": [
+    "Javascript Notes/Javascript is Dynamic.md",
     "Post Production Tools/Post Production Tools.md",
+    "Apple Interview Notes.md",
     "Post Production Tools",
     "Javascript Notes/Variables.md",
     "Javascript Notes/Primitive Types.md",
