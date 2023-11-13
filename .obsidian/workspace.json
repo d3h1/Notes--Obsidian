@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript Notes/Functions are Objects.md",
+                "file": "Javascript Notes/Value Vs Reference (Types).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript Notes/Functions are Objects.md",
+                "file": "Javascript Notes/Value Vs Reference (Types).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript Notes/Functions are Objects.md",
+                "file": "Javascript Notes/Value Vs Reference (Types).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript Notes/Functions are Objects.md"
+                "file": "Javascript Notes/Value Vs Reference (Types).md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "1e2372a969cea364",
   "lastOpenFiles": [
     "Javascript Notes/Functions are Objects.md",
+    "Javascript Notes/Value Vs Reference (Types).md",
     "Javascript Notes/Javascript is Dynamic.md",
     "Post Production Tools/Post Production Tools.md",
     "Apple Interview Notes.md",
